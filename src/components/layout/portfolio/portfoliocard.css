@@ -1,0 +1,78 @@
+#projectCard {
+    background: #fff;
+    border-radius: 2px;
+    height: 600px;    
+    margin-left:10%;
+    position: relative;
+    width: 300px;
+    box-shadow: 0 15px 25px #999, 0 15px 25px #999;
+    /* text-align: left; */
+    display: inline-block;
+    justify-content: center;
+    padding:10px;
+    margin-top: 20px; 
+    margin-bottom: 20px; 
+  }
+  
+  #projectCard > .img-container {
+    height: 40%;
+    overflow: hidden;
+    text-align: center;
+    /* margin-right: 8px; */
+
+   
+  }
+  #projectCard > .img-container >img {
+    height:100%;
+    width: 100%;    
+   
+  }
+  
+  #projectCard > .content {
+    /* padding-left: 1rem; */
+     /* padding-right: 1rem; */
+    font-size: 15px;
+
+  }
+  
+   /* #projectCard > .content > ul {
+    list-style-type: none;
+  } */
+   
+  .content  {
+    position:absolute;
+    height:100px;
+    width:80%;
+  }
+ 
+  #projectlink{
+    
+      /* background-color:red; */
+      position: absolute;
+      bottom: -250px;
+      
+      /* margin-top:15%; */
+      width: 200px;
+      height: auto;
+      margin-left: 45px;
+      
+
+  }
+  @media (max-width: 768px) {
+    #projectlink {
+      padding:2px 4px;
+      font-size:80%;
+      line-height: 1;
+      width: 60%;
+    }
+  }
+
+  @media (max-width: 768px) {
+    img.cardimg {
+     
+      width: 100%;
+    }
+  }
+
+  
+  

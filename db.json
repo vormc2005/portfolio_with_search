@@ -1,0 +1,137 @@
+{
+   "projects" : [
+    {
+      "id": 1,
+      "name": "Password Generator",
+      "image": "/Images/pasword.gif",
+      "technology": "Javascript, HTML, CSS",
+      "Link":"https://vormc2005.github.io/Password_Generator/",
+      "description": "This App generates password between 8-128 characters long"
+    },
+
+    {
+        "id": 2,
+        "name": "Quiz Project",
+        "image": "/Images/quiz.png",
+        "technology": "Javascript, HTML, CSS",
+        "Link":"https://vormc2005.github.io/Quiz/",
+        "description": "Under development quiz application"
+      },
+      {
+        "id": 3,
+        "name": "Pig Game",
+        "image": "/Images/Pig_game.gif",
+        "technology": "Javascript, HTML, CSS",
+        "Link":"https://vormc2005.github.io/Pig_game/",
+        "description": "Game for two players. Rolling dice. Player with highest points wins."
+      },
+      {
+        "id": 4,
+        "name": "Daily Planner",
+        "image": "/Images/notetaker.gif",
+        "technology": "Javascript, JQuery, HTML, CSS, Local Storage",
+        "Link":"https://vormc2005.github.io/Dailyplanner/",
+        "description": "Basic daily planner application"
+      },
+      {
+        "id": 5,
+        "name": "Weather Forcast",
+        "image": "/Images/weather.gif",
+        "technology": "Javascript, JQuery, HTML, CSS, Weather API service, AJAX",
+        "Link":"https://github.com/vormc2005/WeatherHW6",
+        "description": "Weather forcasting application. Attn: for this app to work you need to list this web site as allowed web page in Insecure Content in browser settings or you may test it from VS code"
+      },
+
+      {
+        "id": 6,
+        "name": "Busy Bot",
+        "image": "/Images/busybot.gif",
+        "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API, AJAX",
+        "Link":"https://mhitchi.github.io/group01/",
+        "description": "This App show events within specified city"
+      },
+      {
+        "id": 7,
+        "name": "Liri application",
+        "image": "/Images/lirigif.gif",
+        "technology": "Javascript, NodeJS, Axios, Spotify API, OMBD API, BandsInTown API",
+        "Link":"https://github.com/vormc2005/liri-node-app",
+        "description": "This app shows movies, songs and concerts information"
+      },
+      {
+        "id": 8,
+        "name": "Note taking application",
+        "image": "/Images/notetakingapp.gif",
+        "technology": "Javascript, NodeJS, HTML, CSS",
+        "Link":"https://github.com/vormc2005/Express_note-app",
+        "description": "Sample of note taking application"
+      },
+      {
+        "id": 9,
+        "name": "Team Profile Generator",
+        "image": "/Images/employee.gif",
+        "technology": "Javascript, NodeJS, Express, MySQL",
+        "Link":"https://github.com/vormc2005/Employee_node_app",
+        "description": "MySQL and NodeJS based employee information application"
+      },
+      {
+        "id": 10,
+        "name": "Burger Application",
+        "image": "/Images/mysql.gif",
+        "technology": "Javascript, Sequelize, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL",
+        "Link":"https://frozen-sierra-50900.herokuapp.com/",
+        "description": "Order managing application using MySQL, Sequelize, etc."
+      },
+      {
+        "id": 11,
+        "name": "Pallsport",
+        "image": "/Images/travelapp.gif",
+        "technology": "Javascript, Sequelize, AJAX, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL, Airfare API",
+        "Link":"https://young-ocean-22570.herokuapp.com/index.html",
+        "description": "This App shows information about airfare tickets, and gives you pronaunciations of common phrases"
+      },
+      {
+        "id": 12,
+        "name": "React Employee Directory",
+        "image": "/Images/ReactEmployeeSearch.gif",
+        "technology": "Javascript, ReactJS, AXIOS, random employee API",
+        "Link":"https://floating-lake-69317.herokuapp.com/",
+        "description": "Employee database with search made in React."
+      },
+      {
+        "id": 13,
+        "name": "BitBot Auction",
+        "image": "/Images/bidbot.gif",
+        "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express, AXAX, AXIOS",
+        "Link":"https://bidbot-auction.herokuapp.com/",
+        "description": "MERN application auction/online store application"
+      },
+      {
+        "id": 14,
+        "name": "Budget Application",
+        "image": "/Images/Budget_App.gif",
+        "technology": "Javascript, CSS, HTML",
+        "Link":"https://vormc2005.github.io/Budget_app/",
+        "description": "Vanila JavaScript application wit DOM manipulation"
+      },
+      {
+        "id": 15,
+        "name": "Forkify",
+        "image": "/Images/Recipe_boss.gif",
+        "technology": "Vanilla Javascript, CSS, HTML, Webpack, AXIOS",
+        "Link":"https://gentle-savannah-71490.herokuapp.com/",
+        "description": "Search for recipe using search field. You may type ingredient name or dish ex 'Pizza'"
+      },
+      {
+        "id": 16,
+        "name": "GitHub User Finder",
+        "image": "/Images/Github_finder.gif",
+        "technology": "Vanilla Javascript, ReactJS, CSS, HTML, AXIOS, AJAX",
+        "Link":"https://githubusersearchinreact.netlify.app",
+        "description": "Search for Github user by typing name or github login"
+      }
+
+    ]
+
+
+    }
