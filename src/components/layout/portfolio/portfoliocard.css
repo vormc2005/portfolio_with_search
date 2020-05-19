@@ -54,10 +54,19 @@
       /* margin-top:15%; */
       width: 200px;
       height: auto;
-      margin-left: 45px;
+      margin-left: -28%;
       
 
   }
+
+  /* .githublink{
+    position: absolute;
+    bottom:-150px;
+    margin-left: 40%;
+   
+  } */
+
+
   @media (max-width: 768px) {
     #projectlink {
       padding:2px 4px;
@@ -73,6 +82,7 @@
       width: 100%;
     }
   }
+
 
   
   

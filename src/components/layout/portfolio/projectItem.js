@@ -19,7 +19,8 @@ const ProjectItem = ({project}) => {
            <p>
               <strong>Description:</strong> {project.description}
             </p> 
-       
+            <a href={project.github} className="githublink"><span
+                      className="fab fa-github-square" />Link on Github</a>
           <a href={project.Link} className="btn btn-primary cardBtn" id="projectlink">{project.name}
               </a>
               </div>

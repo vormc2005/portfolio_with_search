@@ -5,6 +5,7 @@
       "name": "Password Generator",
       "image": "/Images/pasword.gif",
       "technology": "Javascript, HTML, CSS",
+      "github":"https://github.com/vormc2005/Password_Generator",
       "Link":"https://vormc2005.github.io/Password_Generator/",
       "description": "This App generates password between 8-128 characters long"
     },
@@ -14,6 +15,7 @@
         "name": "Quiz Project",
         "image": "/Images/quiz.png",
         "technology": "Javascript, HTML, CSS",
+        "github":"https://https://github.com/vormc2005/Quiz",
         "Link":"https://vormc2005.github.io/Quiz/",
         "description": "Under development quiz application"
       },
@@ -22,6 +24,7 @@
         "name": "Pig Game",
         "image": "/Images/Pig_game.gif",
         "technology": "Javascript, HTML, CSS",
+        "github":"https://github.com/vormc2005/Pig_game",
         "Link":"https://vormc2005.github.io/Pig_game/",
         "description": "Game for two players. Rolling dice. Player with highest points wins."
       },
@@ -30,6 +33,7 @@
         "name": "Daily Planner",
         "image": "/Images/notetaker.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Local Storage",
+        "github":"https://github.com/vormc2005/Dailyplanner",
         "Link":"https://vormc2005.github.io/Dailyplanner/",
         "description": "Basic daily planner application"
       },
@@ -38,6 +42,7 @@
         "name": "Weather Forcast",
         "image": "/Images/weather.gif",
         "technology": "Javascript, JQuery, HTML, CSS, Weather API service, AJAX",
+        "github":"https://github.com/vormc2005/WeatherHW6",
         "Link":"https://github.com/vormc2005/WeatherHW6",
         "description": "Weather forcasting application. Attn: for this app to work you need to list this web site as allowed web page in Insecure Content in browser settings or you may test it from VS code"
       },
@@ -47,6 +52,7 @@
         "name": "Busy Bot",
         "image": "/Images/busybot.gif",
         "technology": "Javascript, JQuery, HTML, CSS, TicketMaster API, MapQuest API, AJAX",
+        "github":"https://github.com/vormc2005/Group1-Project-BusyBot",
         "Link":"https://mhitchi.github.io/group01/",
         "description": "This App show events within specified city"
       },
@@ -55,6 +61,7 @@
         "name": "Liri application",
         "image": "/Images/lirigif.gif",
         "technology": "Javascript, NodeJS, Axios, Spotify API, OMBD API, BandsInTown API",
+        "github":"https://github.com/vormc2005/liri-node-app",
         "Link":"https://github.com/vormc2005/liri-node-app",
         "description": "This app shows movies, songs and concerts information"
       },
@@ -63,6 +70,7 @@
         "name": "Note taking application",
         "image": "/Images/notetakingapp.gif",
         "technology": "Javascript, NodeJS, HTML, CSS",
+        "github":"https://github.com/vormc2005/Express_note-app",
         "Link":"https://github.com/vormc2005/Express_note-app",
         "description": "Sample of note taking application"
       },
@@ -71,6 +79,7 @@
         "name": "Team Profile Generator",
         "image": "/Images/employee.gif",
         "technology": "Javascript, NodeJS, Express, MySQL",
+        "github":"https://github.com/vormc2005/Employee_node_app",
         "Link":"https://github.com/vormc2005/Employee_node_app",
         "description": "MySQL and NodeJS based employee information application"
       },
@@ -79,6 +88,7 @@
         "name": "Burger Application",
         "image": "/Images/mysql.gif",
         "technology": "Javascript, Sequelize, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL",
+        "github":"https://frozen-sierra-50900.herokuapp.com/",
         "Link":"https://frozen-sierra-50900.herokuapp.com/",
         "description": "Order managing application using MySQL, Sequelize, etc."
       },
@@ -87,6 +97,7 @@
         "name": "Pallsport",
         "image": "/Images/travelapp.gif",
         "technology": "Javascript, Sequelize, AJAX, SQL Workbench, CSS, NodeJS, Express-Handlebars, MySQL, Airfare API",
+        "github":"https://github.com/vormc2005/Flight-Languages-Group_project2",
         "Link":"https://young-ocean-22570.herokuapp.com/index.html",
         "description": "This App shows information about airfare tickets, and gives you pronaunciations of common phrases"
       },
@@ -95,14 +106,16 @@
         "name": "React Employee Directory",
         "image": "/Images/ReactEmployeeSearch.gif",
         "technology": "Javascript, ReactJS, AXIOS, random employee API",
+        "github":"https://github.com/vormc2005/Employee_node_app",
         "Link":"https://floating-lake-69317.herokuapp.com/",
         "description": "Employee database with search made in React."
       },
       {
         "id": 13,
-        "name": "BitBot Auction",
+        "name": "BidBot Auction",
         "image": "/Images/bidbot.gif",
         "technology": "Javascript, ReactJS, MongoDB, CSS, NodeJS, Express, AXAX, AXIOS",
+        "github":"https://github.com/vormc2005/Project3",
         "Link":"https://bidbot-auction.herokuapp.com/",
         "description": "MERN application auction/online store application"
       },
@@ -111,6 +124,7 @@
         "name": "Budget Application",
         "image": "/Images/Budget_App.gif",
         "technology": "Javascript, CSS, HTML",
+        "github":"https://github.com/vormc2005/Budget_app",
         "Link":"https://vormc2005.github.io/Budget_app/",
         "description": "Vanila JavaScript application wit DOM manipulation"
       },
@@ -119,6 +133,7 @@
         "name": "Forkify",
         "image": "/Images/Recipe_boss.gif",
         "technology": "Vanilla Javascript, CSS, HTML, Webpack, AXIOS",
+        "github":"https://github.com/vormc2005/Recipe_Boss",
         "Link":"https://gentle-savannah-71490.herokuapp.com/",
         "description": "Search for recipe using search field. You may type ingredient name or dish ex 'Pizza'"
       },
@@ -127,6 +142,7 @@
         "name": "GitHub User Finder",
         "image": "/Images/Github_finder.gif",
         "technology": "Vanilla Javascript, ReactJS, CSS, HTML, AXIOS, AJAX",
+        "github":"https://github.com/vormc2005/GitHub_Finder",
         "Link":"https://githubusersearchinreact.netlify.app",
         "description": "Search for Github user by typing name or github login"
       }
